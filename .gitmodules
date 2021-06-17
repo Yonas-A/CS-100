@@ -1,0 +1,24 @@
+[submodule "01-intro-to-software-construction-tooling/googletest"]
+	path = 01-intro-to-software-construction-tooling/googletest
+	url = https://github.com/google/googletest.git
+[submodule "03-github-flow/googletest"]
+	path = 03-github-flow/googletest
+	url = https://github.com/google/googletest.git
+[submodule "04-composite-pattern/googletest"]
+	path = 04-composite-pattern/googletest
+	url = https://github.com/google/googletest.git
+[submodule "05-github-actions/googletest"]
+	path = 05-github-actions/googletest
+	url = https://github.com/google/googletest.git
+[submodule "06-strategy-pattern/googletest"]
+	path = 06-strategy-pattern/googletest
+	url = https://github.com/google/googletest.git
+[submodule "07-factory-pattern/googletest"]
+	path = 07-factory-pattern/googletest
+	url = https://github.com/google/googletest.git
+[submodule "08-visitor-pattern/googletest"]
+	path = 08-visitor-pattern/googletest
+	url = https://github.com/google/googletest.git
+[submodule "09-decorator-pattern/googletest"]
+	path = 09-decorator-pattern/googletest
+	url = https://github.com/google/googletest.git
