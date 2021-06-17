@@ -22,3 +22,6 @@
 [submodule "09-decorator-pattern/googletest"]
 	path = 09-decorator-pattern/googletest
 	url = https://github.com/google/googletest.git
+[submodule "Zodiac-Interpreter"]
+	path = Zodiac-Interpreter
+	url = https://github.com/Yonas-A/Zodiac-Interpreter
