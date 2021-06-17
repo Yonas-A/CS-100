@@ -1,0 +1,12 @@
+#executables
+c-echo-count
+test
+
+#build files
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+
+#lib files
+lib/
